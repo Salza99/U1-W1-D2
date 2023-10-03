@@ -1,0 +1,8 @@
+public class ExerciseTwo {
+    public static void main(String[] args) {
+        // Press Alt+Invio with your caret at the highlighted text to see how
+        // IntelliJ IDEA suggests fixing it.
+        System.out.println("Hello and welcome!");
+
+    }
+}
