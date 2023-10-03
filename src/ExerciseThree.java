@@ -28,7 +28,7 @@ public class ExerciseThree {
 
         }
        if (stringaInserita == close) {
-           
+
             input.close();
         }
 
