@@ -9,6 +9,7 @@ public class ExerciseTwo {
         switch (n1) {
             case 0: {
                 return "zero";
+                
             }
             case 1: {
                 return "uno";
